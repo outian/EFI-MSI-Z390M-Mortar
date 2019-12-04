@@ -699,7 +699,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C07946405QX1M</string>
+			<string></string>
 			<key>ROM</key>
 			<data>ANhhGGQD</data>
 			<key>SpoofVendor</key>
@@ -707,9 +707,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07ZPEY8JYVX</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>9A39783F-730E-4E8F-A474-46FAB8580809</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
